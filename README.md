@@ -33,6 +33,8 @@ example :
 
 ./kmeans_serial input_1000.csv out_1000 10000 5 -t8
 
+
+
 module load OpenCV/4.10.0
 
 ./kmeans_colour_quantisation inputImage.png 100 32
