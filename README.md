@@ -36,6 +36,7 @@ example :
 
 
 
+
 module load OpenCV/4.10.0
 
 ./kmeans_colour_quantisation inputImage.png 100 32
