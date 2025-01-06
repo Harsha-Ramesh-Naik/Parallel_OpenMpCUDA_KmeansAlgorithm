@@ -1,5 +1,17 @@
 # Parallel_OpenMpCUDA_KmeansAlgorithm
-Project: K-Means clustering Algorithm for Customer Segmentation (Parallelizing K-Means: Serial, OpenMP, and CUDA Approaches
+Project: K-Means clustering Algorithm for Customer Segmentation (Parallelizing K-Means: Serial, OpenMP, and CUDA Approaches)
+
+a. Motivation of the project:
+• Businesses need efficient clustering methods for large datasets to enhance decision-making.
+• K-Means, with its simplicity and scalability, is a natural choice for customer segmentation but
+demands high computational power for large datasets.
+• Growing customer datasets lead to higher computational demands for clustering and running K- Means on large datasets can be computationally expensive. Hence there is a need to improve speed and efficiency using parallel computing techniques.
+
+b. Objectives of the project:
+• The objective of the project is to develop a parallelized version of the K-Means clustering algorithm to enhance its performance for large-scale datasets commonly encountered in business analytics.
+• Accelerate customer segmentation by leveraging parallel computing techniques.
+• Achieve faster and more efficient clustering without compromising the accuracy of results.
+
 
 // Generate random data 
 
