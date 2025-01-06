@@ -1,6 +1,6 @@
 # Parallel_OpenMpCUDA_KmeansAlgorithm
 Project: K-Means clustering Algorithm for Customer Segmentation (Parallelizing K-Means: Serial, OpenMP, and CUDA Approaches)
-(Programs which uses Parallel computing Concepts in order to speedup the execution time)
+(Programs which uses Parallel computing concepts in order to speedup the execution time)
 
 
 a. Motivation of the project:
