@@ -12,11 +12,13 @@ example : ./gen_data input_1000.csv 1000 50 400 10 150
 
 
 ###############################
+
 // Customer Segmentation
 
 //Compile 
 
 make kmeans_parallel
+
 make kmeans_serial
 
 //execute 
