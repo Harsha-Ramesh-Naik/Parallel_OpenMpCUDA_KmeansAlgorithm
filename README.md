@@ -42,8 +42,11 @@ module load OpenCV/4.10.0
 ./kmeans_colour_quantisation_openMP inputImage.png 100 32
 
 ./kmeans_cuda input_1000.csv out_1000 10000 5 
+
 ./kmeans_colour_quantisation_waveHPC inputImage.png 100 32
+
 ./kmeans_colour_quantisation_waveHPC_CUDA inputImage.png 100 32
+
 ./kmeans_colour_quantisation_openMP inputImage.png 100 32 16
 
 ###################################
