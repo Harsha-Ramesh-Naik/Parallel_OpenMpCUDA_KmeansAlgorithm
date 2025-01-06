@@ -25,6 +25,7 @@ make kmeans_serial
 //execute 
 
 ./kmeans_parallel <Input Data Filename> <Output Filename> <Number of Iterations> <Number of Clusters> [-t <num_threads>]
+
 ./kmeans_serial <Input Data Filename> <Output Filename> <Number of Iterations> <Number of Clusters> [-t <num_threads>]
 
 example : 
